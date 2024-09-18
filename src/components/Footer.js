@@ -22,7 +22,7 @@ const Footer = () => {
               <h2 className='hover:cursor-pointer'>Terms & Conditions</h2>
               <h2 className='hover:cursor-pointer'>Privacy Policy</h2>
               <h2 className='hover:cursor-pointer'>Anti-discrimination policy</h2>
-              <h2 className='hover:cursor-pointer'>UC impact</h2>
+              <h2 className='hover:cursor-pointer'>HS impact</h2>
               <h2 className='hover:cursor-pointer'>Careers</h2>
             </div>
           </div>
@@ -30,7 +30,7 @@ const Footer = () => {
           <div className=''>
             <h1 className='text-white text-xl'>For customers</h1>
             <div className='mt-4 text-md leading-7'>
-              <h2 className='hover:cursor-pointer'>UC reviews</h2>
+              <h2 className='hover:cursor-pointer'>HS reviews</h2>
               <h2 className='hover:cursor-pointer'>Categories near you</h2>
               <h2 className='hover:cursor-pointer'>Blog</h2>
               <h2 className='hover:cursor-pointer'>Contact us</h2>
